@@ -1,0 +1,4 @@
+keine Internetverbindung = (1017,602,1555-1017,870-602)
+ok_button_in_keine_Internetverbindung = (1216,766,2409-1216,468-766)
+
+-> wenn ok_button clicked dann neu login()

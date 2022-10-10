@@ -1,0 +1,17 @@
+read Numbers für:
+    - Transferliste
+    - Bank Account -> precise.Profit
+
+
+Failsave
+    - keeping an eye on if i got kicked out(several reasons)
+
+
+
+
+
+
+tDo:
+check bad player db
+zoom in 4 read numbers(zoom level 400%)
+    --> otherwise check handy for 2. try
